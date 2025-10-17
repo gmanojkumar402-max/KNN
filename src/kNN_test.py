@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from KNN import KNearestNeighbors
+from Knn import KNearestNeighbors
 import matplotlib.pyplot as plt
 # Set random seed for reproducibility
 np.random.seed(42)
